@@ -1,6 +1,6 @@
 # Base Computer Vision Study
 ## YOLO Series
-Paper Review: [Notion](https://www.notion.so/YOLO-Series-e5c2ac67eb3e46889d16009e4d5abbfb?pvs=4)
+Paper Review: [Notion](https://www.notion.so/YOLO-Series-e5c2ac67eb3e46889d16009e4d5abbfb?pvs=4)<br/>
 YOLO v1 Code: [YOLO v1](https://github.com/skl0726/YOLO-Series/tree/main/YOLOv1)<br/>
 YOLO v2 Code: [YOLO v2](https://github.com/skl0726/YOLO-Series/tree/main/YOLOv2)<br/>
 YOLO v3 Code: [YOLO v3](https://github.com/skl0726/YOLO-Series/tree/main/YOLOv3)
