@@ -10,3 +10,5 @@ PyTorch Code: [FCN](https://github.com/skl0726/Base-Computer-Vision-Study/tree/m
 ## U-Net: Convolutional Networks for Biomedical Image Segmentation
 Paper Review: [Notion](https://frost-crate-a82.notion.site/U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-60b3e0628d7a46eca4df69232f17cf0c?pvs=4)<br/>
 PyTorch Code: [U-Net](https://github.com/skl0726/Base-Computer-Vision-Study/tree/main/U-Net)
+## Objects as Points
+Paper Review: [Notion](https://frost-crate-a82.notion.site/Objects-as-Points-f8a9cdb0a69848ca8c20a4b3fba80072?pvs=4)
